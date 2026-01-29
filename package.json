@@ -8,6 +8,7 @@
     "dev:vite": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "start": "vite preview --host 0.0.0.0 --port $PORT",
     "netlify:serve": "netlify dev"
   },
   "dependencies": {
