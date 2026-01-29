@@ -1,0 +1,11 @@
+
+[
+  { "name": "React / Next.js", "category": "Frontend", "icon": "fa-brands fa-react" },
+  { "name": "TypeScript", "category": "Frontend", "icon": "fa-solid fa-code" },
+  { "name": "Node.js", "category": "Backend", "icon": "fa-brands fa-node-js" },
+  { "name": "Tailwind CSS", "category": "Frontend", "icon": "fa-solid fa-palette" },
+  { "name": "PostgreSQL", "category": "Backend", "icon": "fa-solid fa-database" },
+  { "name": "Docker & K8s", "category": "Tools", "icon": "fa-brands fa-docker" },
+  { "name": "AWS Cloud", "category": "Tools", "icon": "fa-brands fa-aws" },
+  { "name": "تخطيط الأنظمة", "category": "Soft Skills", "icon": "fa-solid fa-sitemap" }
+]

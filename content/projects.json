@@ -1,0 +1,56 @@
+
+[
+  {
+    "id": "1",
+    "title": "منصة إيكوميرس نيكسوس",
+    "description": "منصة تجارة إلكترونية متطورة وعالية الأداء.",
+    "longDescription": "تم بناؤها باستخدام Next.js و Shopify Hydrogen، تتميز بتتبع المخزون في الوقت الفعلي، ودعم العملات المتعددة، ومحرك سلة تسوق مخصص ومحسن للتحويل.",
+    "tags": ["React", "TypeScript", "Tailwind", "Node.js"],
+    "imageUrl": "https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&q=80&w=800",
+    "githubUrl": "https://github.com/example/nexus",
+    "liveUrl": "https://nexus-demo.com",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "لوحة تحليلات الذكاء الاصطناعي",
+    "description": "مجموعة أدوات لتصور البيانات ومقاييس تدريب الشبكات العصبية.",
+    "longDescription": "لوحة تحكم متطورة تستهلك البيانات المتدفقة من خطوط أنابيب التدريب. توفر منحنيات الخسارة في الوقت الفعلي، ورسوم بيانية للتدرج، واكتشافاً آلياً للشذوذ باستخدام D3.js.",
+    "tags": ["D3.js", "Python", "FastAPI", "PostgreSQL"],
+    "imageUrl": "https://images.unsplash.com/photo-1551288049-bbda48336ad1?auto=format&fit=crop&q=80&w=800",
+    "githubUrl": "https://github.com/example/ai-dash",
+    "liveUrl": "https://ai-analytics.demo",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "وصلة الصحة الآمنة",
+    "description": "تطبيق استشارات طبية عن بعد متوافق مع معايير HIPAA.",
+    "longDescription": "منصة استشارات فيديو مشفرة مصممة للعيادات الريفية، تتميز بمزامنة البيانات أولاً بدون إنترنت وإدارة متكاملة للوصفات الطبية.",
+    "tags": ["WebRTC", "React Native", "Firebase", "AWS"],
+    "imageUrl": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=800",
+    "githubUrl": "https://github.com/example/health",
+    "liveUrl": "https://healthconnect.app",
+    "featured": true
+  },
+  {
+    "id": "4",
+    "title": "نظام إدارة اللوجستيات",
+    "description": "تتبع الشحنات وإدارة الأسطول في الوقت الفعلي.",
+    "longDescription": "نظام متكامل لإدارة العمليات اللوجستية، يدعم تتبع GPS وتحسين المسارات باستخدام خوارزميات الذكاء الاصطناعي.",
+    "tags": ["Node.js", "Google Maps API", "Socket.io"],
+    "imageUrl": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&q=80&w=800",
+    "githubUrl": "https://github.com/example/logistics",
+    "featured": false
+  },
+  {
+    "id": "5",
+    "title": "تطبيق التمويل الشخصي",
+    "description": "إدارة المصاريف والميزانية الشخصية بذكاء.",
+    "longDescription": "تطبيق موبايل يساعد المستخدمين على مراقبة مصروفاتهم الشهرية وتحديد أهداف الادخار مع تقارير دورية مفصلة.",
+    "tags": ["React Native", "Firebase", "Redux"],
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=800",
+    "githubUrl": "https://github.com/example/finance",
+    "featured": false
+  }
+]
