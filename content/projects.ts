@@ -15,7 +15,7 @@ export default [
     "description": { ar: "أتمتة آلاف الاختبارات للخدمات المصغرة (Microservices).", en: "Automating thousands of tests for microservices using RestAssured." },
     "longDescription": { ar: "بناء مجموعة اختبارات شاملة لضمان استقرار واجهات البرمجة ودمجها في Jenkins.", en: "Building a comprehensive test suite to ensure API stability and Jenkins integration." },
     "tags": ["RestAssured", "Java", "JSON", "Jenkins"],
-    "imageUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc48?auto=format&fit=crop&q=80&w=800",
+    "imageUrl": "/images/api-automation-workflow.png",
     "featured": true
   }
 ];
