@@ -13,6 +13,16 @@ export default defineConfig({
       },
     },
   },
+  preview: {
+    host: '0.0.0.0',
+    port: 4173,
+    strictPort: false,
+    allowedHosts: [
+      'portfolio-joaq.onrender.com',
+      '.onrender.com',
+      'localhost',
+    ],
+  },
   plugins: [react()],
   resolve: {
     alias: {
